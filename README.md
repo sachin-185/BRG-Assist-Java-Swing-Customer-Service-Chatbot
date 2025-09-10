@@ -1,4 +1,4 @@
-🤖 **BRG Assist – Java Swing Customer Service Chatbot**
+## 🤖 BRG Assist – Java Swing Customer Service Chatbot
 
 BRG Assist is a real-time customer service chatbot developed in **Java using Swing** for the GUI.  
 It features a simple, clean interface and uses **keyword-based intent detection** to respond to user queries such as greetings, services, and billing.  
